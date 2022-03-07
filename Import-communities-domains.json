@@ -1,0 +1,20 @@
+[
+    {
+        "resourceType": "Community",
+        "identifier": {
+             "name": "DEFENSE"
+            }
+    },
+    {
+        "resourceType": "Domain",
+        "identifier": {
+             "name": "DEFENSE-Domain",
+              "community": {
+                  "name": "DEFENSE"
+                }
+            },
+            "type": {
+                "name": "Data Usage Registry"
+                }
+    }
+]
