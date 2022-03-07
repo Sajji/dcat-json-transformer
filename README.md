@@ -3,4 +3,4 @@
 # Usage: 
 # 1. download files
 # 2. run in terminal: npm init
-# 3. run in terminal: npm install jsonata --save
+3. run in terminal: npm install jsonata --save
