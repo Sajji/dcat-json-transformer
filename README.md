@@ -4,3 +4,8 @@
 1. download files
 2. run in terminal: npm init
 3. run in terminal: npm install jsonata --save
+#
+run it: node transformer.js
+#
+Enjoy
+
