@@ -2,8 +2,6 @@ var jsonata = require("jsonata");
 var data = require ("./defense.json");
 const fs = require("fs");
 
-// console.log(data);
-
 var expression = jsonata(`
 dataset.{
     "resourceType": "Asset",
