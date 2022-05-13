@@ -6,7 +6,7 @@ const fs = require("fs");
                 const comName = "COMMUNITY-NAME";
                 var data = require ("FILENAME w PATH");
 
-//***********************************************************
+//******************************************************
 
 var communityDomain = (
     `[
