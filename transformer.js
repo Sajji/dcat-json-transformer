@@ -4,7 +4,7 @@ const fs = require("fs");
 //**********MUST FILL IN THESE VARIABLES !!!************
 
                 const comName = "COMMUNITY-NAME";
-                var data = require ("FILENAME w PATH");
+                var data = require ("./defense.json");
 
 //******************************************************
 
