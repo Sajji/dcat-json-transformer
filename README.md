@@ -2,9 +2,9 @@
 #
 Prerequisite: Node.js (https://nodejs.org/) Tested on version 17.6.0 "Current"
 # Usage: 
-1. download files
-2. run in terminal: npm install
-3. node transformer.js
+1. download and unzip files
+2. run in terminal: **npm install**
+3. run in terminal: **node transformer.js**
 #
 # Testing:
 
