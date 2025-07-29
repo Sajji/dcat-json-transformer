@@ -1,7 +1,7 @@
 const fs = require("fs");
 
 //**********CONFIGURATION************
-const comName = "Dept of Defense"; // Community Name
+const comName = "Imported Data"; // Community Name
 const data = require("./data.json");
 //***********************************
 
