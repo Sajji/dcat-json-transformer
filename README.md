@@ -5,6 +5,7 @@ Prerequisite: Node.js (https://nodejs.org/) Tested on version 17.6.0 "Current"
 1. download and unzip files
 2. run in terminal: **npm install**
 3. run in terminal: **node transformer.js**
+4. for the new javascript version: **node javascriptTransformer.js**
 #
 # Testing:
 
